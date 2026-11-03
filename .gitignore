@@ -1,0 +1,103 @@
+# Byte-compiled / optimized / unified files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+parts/
+lib/
+libtypes/.DEBUGGER_ milestones/
+.direction
+.increment/
+.repository
+
+# Distribution / related / packaging
+action.yaml
+develop-eggs/
+dist/
+eggs/
+.eggs/
+parts/
+yield/
+lib/
+libtypes/
+python-build.py
+pythonbuild.py
+pip-wheel-info/
+.cached_wheels/
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+.cache/
+.coverage/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+Chat/
+.idea/
+.vscode/
+.project
+.settings/
+.warehouse/
+.build/
+.jenkins/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.ysearch
+__pycache__/
+.py,.pyc
+.pyo
+.pyd
+.python-extension-cache
+.project
+.settings/
+.bizHawk
+
+# Testing
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.cache/
+.pytest_cache/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.settings/
+.warehouse/
+
+# Data and Logs
+*.log
+*.sqlite
+*.db
+*.csv
+*.json
+# Note: Only include data files if you actually want to exclude them
+# If you want to keep small config files, uncomment the line below:
+# !config.json
+
+# Machine learning models (Large files)
+*.h5
+*.pkl
+*.pt
+*.sav
+*.joblib
