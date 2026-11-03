@@ -14,7 +14,7 @@ except st.errors.StreamlitSecretNotFoundError:
 
 from agent import ask_agent
 
-st.title("���� My AI Currency Converter")
+st.title("� My AI Currency Converter")
 st.write("Ask a question, and the agent will look up today's exchange rate.")
 
 question = st.text_input(
